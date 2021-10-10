@@ -1,6 +1,6 @@
 # Notepad using Python's tkinter
 
-> Made a Notepad like application using [tkinter](https://docs.python.org/3/library/tk.html)
+> Made a Notepad like application using [tkinter](https://docs.python.org/3/library/tk.html).
 
 # Features
 
