@@ -6,8 +6,8 @@
 
 1. Can do following functionalities:
    1. Type the text
-   2. Save the file as .txt only (you may change it to any file type, check [here]() how to do it)
-   3. Open files of .txt file type (you may change it to any file type, check [here]() how to do it)
+   2. Save the file as .txt only (you may change it to any file type, check below how to do it)
+   3. Open files of .txt file type (you may change it to any file type, check below how to do it)
 2. Different look of dark theme.
 
 :warning: Never put the output in full screen mode.
